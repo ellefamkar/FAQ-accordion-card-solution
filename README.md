@@ -38,7 +38,7 @@ In his project you should be able to:
 
 ### Links
 
-- Live Site URL: [FAQ accordion card solution](https://your-live-site-url.com)
+- Live Site URL: [FAQ accordion card solution](https://ellefamkar.github.io/FAQ-accordion-card-solution/)
 
 ## My process
 
@@ -65,10 +65,10 @@ This projects helped me being more familiar with the details of html, css and js
 To see parts of my codes and see how you can add code snippets, see below:
 
 ```html
-   <div class="accordion__item position-relative border-bottom">
-                     <p class="acc__heading">How do I reset my password?</p>
-                     <p class="acc__content">Click “Forgot password” from the login page or “Change password” from your profile page. A reset link will be emailed to you.</p>
-                  </div>
+<div class="accordion__item position-relative border-bottom">
+   <p class="acc__heading">How do I reset my password?</p>
+   <p class="acc__content">Click “Forgot password” from the login page or “Change password” from your profile page. A reset link will be emailed to you.</p>
+ </div>
 ```
 ```css
 .acc__heading:not(.active-arrow):hover {
